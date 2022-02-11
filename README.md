@@ -1,0 +1,2 @@
+# staticfiles
+hosting static files
